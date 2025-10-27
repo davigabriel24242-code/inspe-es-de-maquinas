@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Painel de Disponibilidade Operacional",
+  "description": "Um painel interativo para visualizar e analisar dados de disponibilidade de máquinas por local e período. Inclui gráficos dinâmicos, filtros e alertas automáticos para baixa performance.",
+  "requestFramePermissions": []
+}
